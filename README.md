@@ -4,8 +4,8 @@ TAB fork with Premium Enabled for the use at Kamey's SMP Server
   
 ## Compiling
 Plugin can be compiled using maven.
-```
-mvn package```
+
+```mvn package```
   
   
 ## Links
