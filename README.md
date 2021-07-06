@@ -8,20 +8,15 @@ Pre-Compiled version can be downloaded from the releases page, but it's build un
 Plugin can be compiled using maven.
 
 ```cd TAB-Premium```
+
 ```mvn package```
   
   
-## Links
-Free version  
-    Spigot (releases): https://www.spigotmc.org/resources/57806/  
-    Pre-releases https://github.com/NEZNAMY/TAB/releases  
-Premium version  
-    Polymart (releases): https://polymart.org/resource/484  
-    MC-Market (releases): https://www.mc-market.org/resources/14009/  
-    Pre-releases on discord for verified buyers  
+## Links 
 Bukkit bridge https://www.spigotmc.org/resources/83966/  
 Wiki https://github.com/NEZNAMY/TAB/wiki  
-Discord invite link: https://discord.gg/EaSvdk6  
+Official Discord invite link: https://discord.gg/EaSvdk6
+TAB-Premium (Kamey's SMP) Discord invite link: https://discord.gg/DPEdKpjQax
 
 
 ## Maven Repository
