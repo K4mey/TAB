@@ -7,6 +7,7 @@ Pre-Compiled version can be downloaded from the releases page, but it's build un
 ## Compiling
 Plugin can be compiled using maven.
 
+```cd TAB-Premium```
 ```mvn package```
   
   
