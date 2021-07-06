@@ -17,23 +17,3 @@ Bukkit bridge https://www.spigotmc.org/resources/83966/
 Wiki https://github.com/NEZNAMY/TAB/wiki  
 Official Discord invite link: https://discord.gg/EaSvdk6
 TAB-Premium (Kamey's SMP) Discord invite link: https://discord.gg/DPEdKpjQax
-
-
-## Maven Repository
-```
-<repositories>
-  <repository>
-    <id>jitpack.io</id>
-    <url>https://jitpack.io</url>
-  </repository>
-</repositories>
-
-<dependencies>
-  <!-- TAB -->
-  <dependency>
-    <groupId>com.github.NEZNAMY</groupId>
-    <artifactId>TAB</artifactId>
-    <version>2.9.0</version>
-  </dependency>
-</dependencies>
- ```
